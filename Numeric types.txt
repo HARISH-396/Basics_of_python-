@@ -1,0 +1,13 @@
+#its bascially stores the values link integer(1,-2) , floting point(2.4),
+#string(harish..) ... type command will tell what type of data this variable is holding
+a=100
+b=-20
+c="harish"
+d=2.3
+f=True
+print(a,b,c)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(f))
