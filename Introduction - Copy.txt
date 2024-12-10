@@ -1,1 +1,25 @@
+lst=[2,3,1.2,"harish","babu"]
+print(lst)
+
+#append to add elements to the list
+lst.append(5)
+print(lst)
+#Remove an elements by its value
+lst.remove(5)
+print(lst)
+#delete wich is inbuilt function on the list can deleted by passing index
+del lst[1]
+print(lst)
+
+
+b=[3.5,1,2,3.5]
+b.append(3.5)
+print(b)
+b.remove(3.5)
+print(b)
+
+
+
+
+
 Hellow this is harish babu SM
